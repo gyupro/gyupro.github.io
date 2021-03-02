@@ -9,3 +9,4 @@ categories: jekyll update
 def print_hello(content):
   print("hello", content)
   print_hello("tom")
+```

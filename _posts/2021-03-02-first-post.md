@@ -1,12 +1,11 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to Gyupro's Blog!"
 date: 2021-03-02 08:26:28 -0400
-categories: jekyll update
+categories: blog
 ---
 
-첫 포스트.
 ```
 def print_hello(content):
   print("hello", content)
-  print_hello("tom")
+  print_hello("gyupro")
 ```
